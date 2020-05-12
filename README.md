@@ -8,7 +8,7 @@ output : Python 3.7.6
 ```
 ## 2. Menciptakan Lingkungan Virtual
 ```py
-# mkdir my_tensorflow && cd my_tensorflow 
+# mkdir coba_tensorflow && cd coba_tensorflow 
 ```
 Setelah di dalam direktori, jalankan perintah berikut untuk membuat virtual environment:
 ```py
