@@ -6,6 +6,7 @@ Cek Versi Python
 output : Python 3.7.6
 # sudo apt install python3-venv
 ```
+Setelah modul terinstal, kita siap untuk menciptakan lingkungan virtual untuk proyek TensorFlow.
 ## 2. Menciptakan Lingkungan Virtual
 ```py
 # mkdir coba_tensorflow && cd coba_tensorflow 
