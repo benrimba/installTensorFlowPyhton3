@@ -1,6 +1,6 @@
 # CARA INSTALL TransFlow Python3 
 ## 1. Install Python 3 dan venv
-Cek Versi Python
+#### Cek Versi Python
 ```python
 # python --version
 output : Python 3.7.6
@@ -10,11 +10,11 @@ output : Python 3.7.6
 ```py
 # mkdir coba_tensorflow && cd coba_tensorflow 
 ```
-Setelah di dalam direktori, jalankan perintah berikut untuk membuat virtual environment:
+#### Setelah di dalam direktori, jalankan perintah berikut untuk membuat virtual environment:
 ```py
 # python3 -m venv venv
 ```
-Untuk mulai menggunakan virtual environment, Anda harus mengaktifkannya dengan menjalankan skrip activate dengan perintah source:
+#### Untuk mulai menggunakan virtual environment, Anda harus mengaktifkannya dengan menjalankan skrip activate dengan perintah source:
 ```py
 # source venv/bin/activate
 Output : (venv) (base) home@namauser-pc:~/my_tensorflow/
